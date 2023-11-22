@@ -1,0 +1,20 @@
+
+        .main-div{
+            border: 1px solid red;
+            height: 500px;
+            display: flex;
+            justify-content: space-around;
+
+        }
+        .box-1{
+            border: 1px solid blue;
+            width: 350px;
+        }
+   .bg-img
+   {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+   }
+   
